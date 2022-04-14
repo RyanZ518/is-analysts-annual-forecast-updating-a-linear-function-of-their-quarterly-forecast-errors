@@ -1,0 +1,2 @@
+# is-analysts-annual-forecast-updating-a-linear-function-of-their-quarterly-forecast-errors
+Analysts provide both annual and quarterly EPS forecasts about a firm. Therefore, they are able to receive regular feedback whether their quarterly forecasts are erroneous and update their annual forecasts. Theory predicts that such belief updating can be non-linear or even non-monotonic in the presence of uncertain precision of information (Subramanyam, 1996).
